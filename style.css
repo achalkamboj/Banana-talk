@@ -1,0 +1,51 @@
+
+body{
+    font-weight: 300;
+    font-family: cursive;
+    margin: 0rem;
+    
+}
+
+.navigation{
+    height: 5rem;
+    background-color: yellow;
+    color:black;
+    text-align: center;
+    text-shadow: black;
+    padding: 1rem;
+}
+
+.footer {
+    background-color: yellow;
+    padding: 1rem 1rem;
+    text-align: center;
+    color: black;
+}
+
+textarea{
+    width: 80%;
+    height: 10vh;
+    display: block;
+    margin: 2rem;
+    padding: 1rem;
+}
+
+#output{
+    border: 1px solid black;
+    height: 10vh;
+    width: 80%;
+    margin: 2rem;
+    padding: 1rem;
+}
+
+#btn-translate{
+background-color: yellow;
+padding: 1rem;
+margin: 2rem;
+text-align: center;
+color: black;
+border-radius: 1rem;
+font-weight: 600;
+font-size: larger;
+}
+
